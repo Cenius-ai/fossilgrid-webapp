@@ -1,0 +1,43 @@
+{
+  "origin": { "lat": 52.0, "lon": 4.0 },
+  "grid": { "width": 10, "height": 10 },
+  "cell_size_m": 1,
+  "units": "m",
+  "finds": [
+    {
+      "find_id": "FG-001",
+      "taxon": "Strophomena filosa",
+      "x": 3,
+      "y": 4,
+      "notes": "Internal mould with the cardinal process exposed"
+    },
+    {
+      "find_id": "FG-002",
+      "taxon": "Strophomena filosa",
+      "x": 3,
+      "y": 4,
+      "notes": "Weathered external mould from the same bedding plane"
+    },
+    {
+      "find_id": "FG-004",
+      "taxon": "Hebertella occidentalis",
+      "x": 7,
+      "y": 2,
+      "notes": "Brachiopod in limestone; brachial valve up"
+    },
+    {
+      "find_id": "FG-008",
+      "taxon": "Calymene blumenbachii",
+      "x": 2,
+      "y": 2,
+      "notes": "Trilobite pygidium"
+    },
+    {
+      "find_id": "FG-012",
+      "taxon": "Orthoceras regulare",
+      "x": 9,
+      "y": 9,
+      "notes": "Straight nautiloid mould"
+    }
+  ]
+}

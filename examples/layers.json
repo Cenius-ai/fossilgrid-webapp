@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cross-bedded fluvial sandstone",
+    "thickness_m": 1.5,
+    "lithology": "sandstone",
+    "notes": "Sharp erosive base; mudstone clasts along the scour"
+  },
+  {
+    "name": "Dark grey fissile shale",
+    "thickness_m": 2.2,
+    "lithology": "shale",
+    "notes": "Ammonites concentrated in the upper 40 cm"
+  },
+  {
+    "name": "Nodular bioclastic limestone",
+    "thickness_m": 0.8,
+    "lithology": "limestone",
+    "notes": "Crinoid ossicles; bored hardground at the top"
+  },
+  {
+    "name": "Calcareous mudstone",
+    "thickness_m": 3.5,
+    "lithology": "mudstone",
+    "notes": "Belemnite guards and scattered oyster fragments"
+  },
+  {
+    "name": "Ooidal packstone",
+    "thickness_m": 1.2,
+    "lithology": "limestone",
+    "notes": "Cross-bedded at the base; ooids visible on the weathered face"
+  },
+  {
+    "name": "Bioturbated siltstone",
+    "thickness_m": 0.9,
+    "lithology": "siltstone",
+    "notes": "Vertical burrows; gradational top into the packstone"
+  }
+]

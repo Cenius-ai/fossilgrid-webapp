@@ -1,0 +1,47 @@
+{
+  "title": "Ordovician brachiopods of the Weir quarry",
+  "taxa": [
+    {
+      "taxon": "Strophomena filosa",
+      "lithology": "shale",
+      "valve_concavity": "concavoconvex",
+      "ribbing": "parvicostellate",
+      "hinge_line": "straight"
+    },
+    {
+      "taxon": "Sowerbyella sericea",
+      "lithology": "shale",
+      "valve_concavity": "concavoconvex",
+      "ribbing": "simple",
+      "hinge_line": "fine"
+    },
+    {
+      "taxon": "Dalmanella testudinaria",
+      "lithology": "limestone",
+      "valve_concavity": "planoconvex",
+      "ribbing": "simple",
+      "hinge_line": "fine"
+    },
+    {
+      "taxon": "Platystrophia biforata",
+      "lithology": "shale",
+      "valve_concavity": "planoconvex",
+      "ribbing": "coarse",
+      "hinge_line": "strophic"
+    },
+    {
+      "taxon": "Hebertella occidentalis",
+      "lithology": "limestone",
+      "valve_concavity": "biconvex",
+      "ribbing": "coarse",
+      "hinge_line": "strophic"
+    },
+    {
+      "taxon": "Rafinesquina alternata",
+      "lithology": "sandstone",
+      "valve_concavity": "concavoconvex",
+      "ribbing": "coarse",
+      "hinge_line": "straight"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# FossilGrid has no third-party runtime dependencies: it is standard library only
+# (argparse, csv, json, math, os, shutil, sys, textwrap, unittest).
+#
+# This file is intentionally a complete no-op so that `pip install -r requirements.txt`
+# succeeds on a clean checkout, and the usual install step is a real step:
+#
+#   python3 -m pip install -r requirements.txt
+#
+# The development test suite runs on the standard library as well:
+#
+#   python3 -m unittest test_fossilgrid
