@@ -83,7 +83,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-No external services required: the entire command-line tool runs from this Full-stack app repo (27 files). Top-level layout: `examples/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+No external services required: the entire command-line tool runs from this Full-stack app repo (18 files). Top-level layout: `examples/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
